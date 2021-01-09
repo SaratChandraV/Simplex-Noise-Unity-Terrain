@@ -20,3 +20,11 @@ a.	A fractal-based method.
 b.	Performs based on the already precomputed edges heights.
   
 c.	Support for formation of ridges.
+
+Midpoint Displacement Method:
+
+a.  A fractal-based method on both 1D case and 2D case.
+  
+b.	Performs based on the already precomputed edges heights.
+  
+c.	Support for formation of ridges.
