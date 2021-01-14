@@ -1,4 +1,6 @@
-﻿using System;
+// Based on the java implementation of simplex noise by SRombouts in GitHub. 
+//The reference link to this is https://github.com/SRombauts/SimplexNoise/blob/master/references/SimplexNoise.java
+using System;
 using UnityEngine;
 
 public class TerrainBehaviour : MonoBehaviour
