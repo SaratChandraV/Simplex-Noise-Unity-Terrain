@@ -12,6 +12,10 @@ b.	Has capability of random generation based on seed values.
 c.	Currently has only 2D input support.
   
 d.	Support for formation of ridges.
+
+The screenshot of seamless simplex nosie implementation with neighbouring terrains :
+
+![alt text](https://github.com/SaratChandraV/Terrains-Unity/blob/main/Simplex%20noise/Screenshots/Simplex%20Noise.png?raw=true)
   
 Diamond Square Method:
 
