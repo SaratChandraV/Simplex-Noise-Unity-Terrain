@@ -1,4 +1,4 @@
-# Terrains-Unity
+# Simplex Noise for Terrain Generation in Unity.
 Seamless Terrain based on location for infinity generation in Unity using either Simplex Noise
 
 Simplex Noise method:
